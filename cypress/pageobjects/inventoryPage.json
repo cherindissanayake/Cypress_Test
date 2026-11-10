@@ -1,0 +1,9 @@
+{
+    "inventoryPageURL": "https://www.saucedemo.com/inventory.html",
+    "productLabel": "[data-test='title']",
+    "product1": "[data-test='add-to-cart-sauce-labs-backpack']",
+    "product2": "[data-test='add-to-cart-sauce-labs-bike-light']",
+    "cartBatch": "[data-test='shopping-cart-link']",
+    "productSorting": "[data-test='product-sort-container']",
+    "productContainer": "[data-test='inventory-container']"
+}

@@ -1,0 +1,6 @@
+{
+    "firstProduct": ":nth-child(3) > .cart_item_label",
+    "secondProduct": "[data-test='cart-list'] > :nth-child(4)",
+    "checkoutButton": "[data-test='checkout']"
+    
+}
